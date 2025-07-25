@@ -1,0 +1,24 @@
+C# Download secret sharing
+https://github.com/koloff/shamir-secret-sharing
+
+5
+
+3
+
+Hello Friends 
+
+
+uLFBvRxATLbjcglJjOobaJ89TN7eP18ecf/h6tcjqwk=
+
+
+580F0FEF-35E20702-DC2EA787-47DBEEB7-54C50EE6-1792EDB6
+3499A36D-49023CD6-7E622E7C-C1DF9C3-FAC87257-4CFF9E16
+ED021F14-77BDF963-10BDD6C-4867F648-2E88E063-28FA0713
+B032F5F8-4845464F-D435B58F-250EE541-34156CC6-7E6C82D4
+E6050650-3AF7229F-AD7732E2-133FF5FD-A10D9CB6-467D49A1
+
+
+
+Rijndael is a symmetric key encryption algorithm that's constructed as a block cipher. 
+It supports key sizes of 128, 192 and 256 bits, with data handling taking place in 128-bit blocks. 
+In addition, the block sizes can mirror those of their respective keys.
